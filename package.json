@@ -42,7 +42,9 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
     "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
     "jshint": "^2.9.5",
     "parallelshell": "^3.0.2"
   }
